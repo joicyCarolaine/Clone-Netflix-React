@@ -1,4 +1,16 @@
-# netflix-clone-react
-Projeto final da disciplina de Desenvolvimento Front-End II usando React JS e Tailwind CSS no qual foi desenvolvido um clone simples de algumas páginas da Netflix, juntamente com integração da API do TMDB.
+# Clone da Netflix
 
-Link do Vercel: https://netflix-clone-react-phi-wheat.vercel.app/
+Um clone do Netflix para a disciplina de Infraestrutura para S.I
+
+## Tecnologias usadas
+
+- React JS
+- Api TMDB
+- tailwind
+- Next.js
+- JavaScript
+
+## Para rodar aplicação
+#### `yarn install`
+
+#### `yarn start`
